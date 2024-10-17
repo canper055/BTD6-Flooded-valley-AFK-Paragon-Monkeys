@@ -7,3 +7,6 @@ Whats different is that i have swapped a monkey with the extra cash left over to
 The monkey used in this recording is a 003 magic monkey which can barely hit balloons and will gain him exp.
 
 I will make more with more monkeys soon.
+
+
+...
